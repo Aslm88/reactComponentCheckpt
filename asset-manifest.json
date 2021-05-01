@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactComponentCheckpt/static/css/main.57c36209.chunk.css",
+    "main.js": "/reactComponentCheckpt/static/js/main.21bf7018.chunk.js",
+    "main.js.map": "/reactComponentCheckpt/static/js/main.21bf7018.chunk.js.map",
+    "runtime-main.js": "/reactComponentCheckpt/static/js/runtime-main.b7fda3d8.js",
+    "runtime-main.js.map": "/reactComponentCheckpt/static/js/runtime-main.b7fda3d8.js.map",
+    "static/js/2.42633768.chunk.js": "/reactComponentCheckpt/static/js/2.42633768.chunk.js",
+    "static/js/2.42633768.chunk.js.map": "/reactComponentCheckpt/static/js/2.42633768.chunk.js.map",
+    "static/js/3.c8348b64.chunk.js": "/reactComponentCheckpt/static/js/3.c8348b64.chunk.js",
+    "static/js/3.c8348b64.chunk.js.map": "/reactComponentCheckpt/static/js/3.c8348b64.chunk.js.map",
+    "index.html": "/reactComponentCheckpt/index.html",
+    "static/css/main.57c36209.chunk.css.map": "/reactComponentCheckpt/static/css/main.57c36209.chunk.css.map",
+    "static/js/2.42633768.chunk.js.LICENSE.txt": "/reactComponentCheckpt/static/js/2.42633768.chunk.js.LICENSE.txt",
+    "static/media/photodeprofil.36173f57.jpg": "/reactComponentCheckpt/static/media/photodeprofil.36173f57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7fda3d8.js",
+    "static/js/2.42633768.chunk.js",
+    "static/css/main.57c36209.chunk.css",
+    "static/js/main.21bf7018.chunk.js"
+  ]
+}
